@@ -1,4 +1,4 @@
-#安装
+# 安装
 
 1.进入dockerfile文件目录，然后运行dockerfile文件创建镜像
 
